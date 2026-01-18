@@ -1,4 +1,4 @@
-# MedicApp - Pneumonia Detection Cloud System
+# MedicApp - Pneumonia Detection System
 
 Results-driven Mobile Health (mHealth) application designed to assist doctors in detecting pneumonia from chest X-rays using Deep Learning.
 
