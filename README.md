@@ -1,4 +1,4 @@
-# MedicApp - Pneumonia Detection Cloud System 🫁📱
+# MedicApp - Pneumonia Detection Cloud System
 
 Results-driven Mobile Health (mHealth) application designed to assist doctors in detecting pneumonia from chest X-rays using Deep Learning.
 
@@ -70,7 +70,7 @@ Before starting the app, you must tell the mobile app where your backend is runn
     export const API_URL = "http://YOUR_LOCAL_IP:5000";
     ```
 
-### Step 4: Start the Mobile App 📱
+### Step 4: Start the Mobile App 
 Launch the Expo development server.
 ```bash
 # Inside 'MedicApp' folder
